@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
-		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/victor-hugo/les-miserables/isabel-florence-hapgood</dc:identifier>
+		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/victor-hugo/les-miserables/isabel-f-hapgood</dc:identifier>
 		<dc:date>1900-01-01T00:00:00Z</dc:date>
 		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
 		<meta property="se:revision-number">0</meta>
@@ -40,7 +40,7 @@
 		<meta property="meta-auth" refines="#subject-3">https://www.gutenberg.org/ebooks/135</meta>
 		<meta property="meta-auth" refines="#subject-4">https://www.gutenberg.org/ebooks/135</meta>
 		<meta property="meta-auth" refines="#subject-5">https://www.gutenberg.org/ebooks/135</meta>
-		<meta property="se:subject">TAG</meta>
+		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">DESCRIPTION</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description"><![CDATA[
@@ -49,21 +49,22 @@
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/135</dc:source>
+		<dc:source>https://archive.org/details/in.ernet.dli.2015.149684</dc:source>
 		<meta property="se:production-notes">Any special notes about the production of this ebook for future editors/producers? Remove this element if not.</meta>
 		<meta property="se:word-count">WORDCOUNT</meta>
 		<meta property="se:reading-ease.flesch">READINGEASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Les_Mis%C3%A9rables</meta>
-		<meta property="se:url.vcs.github">https://github.com/standardebooks/victor-hugo_les-miserables_isabel-florence-hapgood</meta>
+		<meta property="se:url.vcs.github">https://github.com/standardebooks/victor-hugo_les-miserables_isabel-f-hapgood</meta>
 		<dc:creator id="author">Victor Hugo</dc:creator>
-		<meta property="file-as" refines="#author">AUTHORSORT</meta>
-		<meta property="se:name.person.full-name" refines="#author">AUTHORFULLNAME</meta>
+		<meta property="file-as" refines="#author">Hugo, Victor</meta>
+		<meta property="se:name.person.full-name" refines="#author">Victor Marie Hugo</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Victor_Hugo</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">AUTHORNACOAFLINK</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">https://id.loc.gov/authorities/names/n79091479</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="translator">Isabel Florence Hapgood</dc:contributor>
-		<meta property="file-as" refines="#translator">TRANSLATORSORT</meta>
+		<dc:contributor id="translator">Isabel F. Hapgood</dc:contributor>
+		<meta property="file-as" refines="#translator">Hapgood, Isabel F.</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#translator">https://en.wikipedia.org/wiki/Isabel_Florence_Hapgood</meta>
-		<meta property="se:url.authority.nacoaf" refines="#translator">TRANSLATORNACOAFLINK</meta>
+		<meta property="se:url.authority.nacoaf" refines="#translator">https://id.loc.gov/authorities/names/n50019138</meta>
 		<meta property="display-seq" refines="#translator">1</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
 		<dc:contributor id="artist">COVERARTIST</dc:contributor>
@@ -77,9 +78,9 @@
 		<dc:contributor id="transcriber-2">David Widger</dc:contributor>
 		<meta property="file-as" refines="#transcriber-2">TRANSCRIBERSORT</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCERSORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">LINK</meta>
+		<dc:contributor id="producer-1">Michael Atkinson</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Atkinson, Michael</meta>
+		<meta property="se:url.homepage" refines="#producer-1">https://github.org/michael-77</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
