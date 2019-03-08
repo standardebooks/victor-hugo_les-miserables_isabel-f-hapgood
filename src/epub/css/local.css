@@ -63,11 +63,21 @@ p span.i2{
 	text-indent: -1em;
 }
 
+[epub|type~="z3998:letter"] header{
+	font-variant: small-caps;
+	text-align: right;
+}
+
 p[epub|type~="z3998:salutation"]{
 	font-variant: small-caps;
 }
 
 p[epub|type~="z3998:salutation"] + p{
+	text-indent: 0;
+}
+
+p[epub|type~="z3998:postscript"]{
+	margin-top: 1em;
 	text-indent: 0;
 }
 
