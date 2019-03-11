@@ -89,3 +89,19 @@ footer{
 .signature{
 	font-variant: small-caps;
 }
+/* If the image is meant to be inline with the text, use this selector... */
+figure{
+	margin: 1em auto;
+	text-align: center;
+}
+
+/* In all cases, also include the below styles */
+figure img{
+	display: block;
+	margin: auto;
+	max-width: 100%;
+}
+
+figure + p{
+	text-indent: 0;
+}
