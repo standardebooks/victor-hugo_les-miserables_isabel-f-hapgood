@@ -11,16 +11,19 @@ span[epub|type~="subtitle"]{
 	font-variant: small-caps;
 }
 
+.list table,
 .accounts table{
 	margin: 1em auto;
 	font-variant-numeric: tabular-nums;
 }
 
+.list table tr td,
 .accounts table tr td{
 	padding: 0 .5em;
 	vertical-align: top;
 }
 
+.list table td:last-child,
 .accounts table td:last-child{
 	text-align: right;
 	white-space: nowrap;
@@ -30,25 +33,30 @@ span[epub|type~="subtitle"]{
 	border-top: 1px solid;
 }
 
+[epub|type~="z3998:song"] p,
 [epub|type~="z3998:verse"] p{
 	text-align: left;
 	text-indent: 0;
 }
 
+[epub|type~="z3998:song"] p > span,
 [epub|type~="z3998:verse"] p > span{
 	display: block;
 	padding-left: 1em;
 	text-indent: -1em;
 }
 
+[epub|type~="z3998:song"] p > span + br,
 [epub|type~="z3998:verse"] p > span + br{
 	display: none;
 }
 
+[epub|type~="z3998:song"] p + p,
 [epub|type~="z3998:verse"] p + p{
 	margin-top: 1em;
 }
 
+[epub|type~="z3998:song"] + p,
 [epub|type~="z3998:verse"] + p{
 	text-indent: 0;
 }
@@ -60,6 +68,11 @@ p span.i1{
 
 p span.i2{
 	padding-left: 3em;
+	text-indent: -1em;
+}
+
+p span.i4{
+	padding-left: 5em;
 	text-indent: -1em;
 }
 
@@ -89,6 +102,23 @@ footer{
 .signature{
 	font-variant: small-caps;
 }
+
+/* Gravestone-type inscriptions */
+.inscription{
+	text-align: center;
+	font-variant: small-caps;
+}
+
+blockquote.code table{
+	border-collapse: collapse;
+}
+
+blockquote.code table td{
+	border: 1px solid;
+	padding: 1em;
+	vertical-align: top;
+}
+
 /* If the image is meant to be inline with the text, use this selector... */
 figure{
 	margin: 1em auto;
@@ -104,4 +134,8 @@ figure img{
 
 figure + p{
 	text-indent: 0;
+}
+
+#chapter-5-4-1 [epub|type~="z3998:letter"] header{
+	text-align: center;
 }
