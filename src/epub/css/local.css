@@ -109,6 +109,10 @@ footer{
 	font-variant: small-caps;
 }
 
+i.inscription{
+	font-style: normal;
+}
+
 blockquote.code table{
 	border-collapse: collapse;
 }
