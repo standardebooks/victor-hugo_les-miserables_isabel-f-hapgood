@@ -123,11 +123,11 @@ i.inscription{
 	font-style: normal;
 }
 
-blockquote.code table{
+#chapter-4-1-5 blockquote:nth-of-type(3) table{
 	border-collapse: collapse;
 }
 
-blockquote.code table td{
+#chapter-4-1-5 blockquote:nth-of-type(3) table td{
 	border: 1px solid;
 	padding: 1em;
 	vertical-align: top;
