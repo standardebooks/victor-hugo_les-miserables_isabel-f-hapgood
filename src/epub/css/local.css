@@ -99,7 +99,6 @@ blockquote[xml|lang]{
 	font-style: italic;
 }
 
-blockquote[xml|lang] i,
 blockquote[xml|lang] [epub|type~="noteref"]{
 	font-style: normal;
 }
