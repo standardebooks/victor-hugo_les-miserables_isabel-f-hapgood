@@ -82,6 +82,10 @@ p span.i4{
 	text-align: right;
 }
 
+#chapter-5-4-1 [epub|type~="z3998:letter"] header{
+	text-align: center;
+}
+
 p[epub|type~="z3998:salutation"]{
 	font-variant: small-caps;
 }
@@ -95,14 +99,6 @@ p[epub|type~="z3998:postscript"]{
 	text-indent: 0;
 }
 
-blockquote[xml|lang]{
-	font-style: italic;
-}
-
-blockquote[xml|lang] [epub|type~="noteref"]{
-	font-style: normal;
-}
-
 footer{
 	margin-top: 1em;
 	text-align: right;
@@ -110,6 +106,14 @@ footer{
 
 .signature{
 	font-variant: small-caps;
+}
+
+blockquote[xml|lang]{
+	font-style: italic;
+}
+
+blockquote[xml|lang] [epub|type~="noteref"]{
+	font-style: normal;
 }
 
 /* Gravestone-type inscriptions */
@@ -133,13 +137,12 @@ i.inscription{
 	vertical-align: top;
 }
 
-/* If the image is meant to be inline with the text, use this selector... */
+/* inline image  */
 figure{
 	margin: 1em auto;
 	text-align: center;
 }
 
-/* In all cases, also include the below styles */
 figure img{
 	display: block;
 	margin: auto;
@@ -150,6 +153,3 @@ figure + p{
 	text-indent: 0;
 }
 
-#chapter-5-4-1 [epub|type~="z3998:letter"] header{
-	text-align: center;
-}
