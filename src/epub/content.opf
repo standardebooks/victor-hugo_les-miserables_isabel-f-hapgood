@@ -101,7 +101,7 @@
 		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
 		<item href="css/local.css" id="local.css" media-type="text/css"/>
-		<item href="images/banknote.jpg" id="banknote.jpg" media-type="image/jpeg"/>
+		<item href="images/banknote.svg" id="banknote.svg" media-type="image/svg+xml"/>
 		<item href="images/cover.svg" id="cover.svg" media-type="image/svg+xml" properties="cover-image"/>
 		<item href="images/logo.svg" id="logo.svg" media-type="image/svg+xml"/>
 		<item href="images/titlepage.svg" id="titlepage.svg" media-type="image/svg+xml"/>
@@ -298,7 +298,7 @@
 		<item href="text/chapter-2-8-6.xhtml" id="chapter-2-8-6.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/chapter-2-8-7.xhtml" id="chapter-2-8-7.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/chapter-2-8-8.xhtml" id="chapter-2-8-8.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-2-8-9.xhtml" id="chapter-2-8-9.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-2-8-9.xhtml" id="chapter-2-8-9.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/chapter-3-1-1.xhtml" id="chapter-3-1-1.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/chapter-3-1-2.xhtml" id="chapter-3-1-2.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/chapter-3-1-3.xhtml" id="chapter-3-1-3.xhtml" media-type="application/xhtml+xml"/>
