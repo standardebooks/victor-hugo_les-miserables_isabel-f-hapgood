@@ -8,7 +8,7 @@ span[epub|type~="subtitle"]{
 }
 
 /* Accounting bill */
-.accounts header{
+.accounts caption{
 	font-variant: small-caps;
 }
 
