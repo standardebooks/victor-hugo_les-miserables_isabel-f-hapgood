@@ -122,10 +122,6 @@ blockquote[xml|lang] [epub|type~="noteref"]{
 	font-variant: small-caps;
 }
 
-i.inscription{
-	font-style: normal;
-}
-
 /* Code crib-sheet */
 #chapter-4-1-5 blockquote:nth-of-type(3) table{
 	border-collapse: collapse;
@@ -141,6 +137,7 @@ i.inscription{
 figure{
 	margin: 1em auto;
 	text-align: center;
+	max-width: 500px;
 }
 
 figure img{
@@ -152,4 +149,3 @@ figure img{
 figure + p{
 	text-indent: 0;
 }
-
