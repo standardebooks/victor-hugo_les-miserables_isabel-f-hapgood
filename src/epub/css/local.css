@@ -133,7 +133,7 @@ blockquote[xml|lang] [epub|type~="noteref"]{
 	vertical-align: top;
 }
 
-/* inline image  */
+/* inline image */
 figure{
 	margin: 1em auto;
 	text-align: center;
