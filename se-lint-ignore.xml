@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="chapter-4-12-1.xhtml">
+		<ignore>
+			<code>t-019</code>
+			<reason>Matched text is not a complete clause.</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
