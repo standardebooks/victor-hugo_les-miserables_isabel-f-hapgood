@@ -35,12 +35,14 @@ span[epub|type~="subtitle"]{
 }
 
 [epub|type~="z3998:song"] p,
+[epub|type~="z3998:poem"] p,
 [epub|type~="z3998:verse"] p{
 	text-align: left;
 	text-indent: 0;
 }
 
 [epub|type~="z3998:song"] p > span,
+[epub|type~="z3998:poem"] p > span,
 [epub|type~="z3998:verse"] p > span{
 	display: block;
 	padding-left: 1em;
@@ -48,6 +50,7 @@ span[epub|type~="subtitle"]{
 }
 
 [epub|type~="z3998:song"] p > span + br,
+[epub|type~="z3998:poem"] p > span + br,
 [epub|type~="z3998:verse"] p > span + br{
 	display: none;
 }
@@ -58,6 +61,7 @@ span[epub|type~="subtitle"]{
 }
 
 [epub|type~="z3998:song"] + p,
+[epub|type~="z3998:poem"] + p,
 [epub|type~="z3998:verse"] + p{
 	text-indent: 0;
 }
