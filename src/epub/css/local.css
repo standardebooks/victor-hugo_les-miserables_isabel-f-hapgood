@@ -104,7 +104,7 @@ footer{
 }
 
 #chapter-3-8-20 blockquote,
-[epub:type~="z3998:signature"]{
+[epub|type~="z3998:signature"]{
 	font-variant: small-caps;
 }
 
