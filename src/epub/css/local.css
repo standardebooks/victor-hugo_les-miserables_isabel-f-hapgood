@@ -141,7 +141,3 @@ figure img{
 	margin: auto;
 	max-width: 100%;
 }
-
-figure + p{
-	text-indent: 0;
-}
