@@ -104,7 +104,6 @@
 		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
-		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
 		<item href="css/local.css" id="local.css" media-type="text/css"/>
 		<item href="css/se.css" id="se.css" media-type="text/css"/>
@@ -538,6 +537,7 @@
 		<item href="text/volume-3.xhtml" id="volume-3.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/volume-4.xhtml" id="volume-4.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/volume-5.xhtml" id="volume-5.xhtml" media-type="application/xhtml+xml"/>
+		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
 	</manifest>
 	<spine>
 		<itemref idref="titlepage.xhtml"/>
