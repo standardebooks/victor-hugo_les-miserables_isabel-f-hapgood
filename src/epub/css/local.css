@@ -9,8 +9,8 @@
 
 .list table,
 .accounts table{
-	margin: 1em auto;
 	font-variant-numeric: tabular-nums;
+	margin: 1em auto;
 }
 
 .list table tr td,
@@ -114,8 +114,8 @@ blockquote[xml|lang] [epub|type~="noteref"]{
 
 /* Gravestone-type inscriptions */
 .inscription{
-	text-align: center;
 	font-variant: small-caps;
+	text-align: center;
 }
 
 /* Code crib-sheet */
