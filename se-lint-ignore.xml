@@ -18,10 +18,4 @@
 			<reason>Matched text is not a complete clause.</reason>
 		</ignore>
 	</file>
-	<file path="local.css">
-		<ignore>
-			<code>c-009</code>
-			<reason>Use of duplicate CSS selector to extend/override base style is explicitly permitted.</reason>
-		</ignore>
-	</file>
 </se-lint-ignore>
