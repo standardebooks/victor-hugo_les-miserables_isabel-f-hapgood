@@ -47,6 +47,8 @@
 		<meta property="authority" refines="#subject-5">LCSH</meta>
 		<meta property="term" refines="#subject-5">sh2008103388</meta>
 		<meta property="se:subject">Fiction</meta>
+		<meta id="collection-1" property="belongs-to-collection">Haycraft Queen Cornerstones</meta>
+		<meta property="collection-type" refines="#collection-1">set</meta>
 		<dc:description id="description">An escaped convict steals two candlesticks and uses the proceeds to redeem himself and become an honest man.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;Les Misérables&lt;/i&gt;, by &lt;a href="https://standardebooks.org/ebooks/victor-hugo"&gt;Victor Hugo&lt;/a&gt; has been described as one of literature’s greatest novels. The first two volumes were published in French in March 1862 and translated into English later the same year. Since then it has been translated by numerous others and has been adapted for film, television, radio, animation and the stage.&lt;/p&gt;
