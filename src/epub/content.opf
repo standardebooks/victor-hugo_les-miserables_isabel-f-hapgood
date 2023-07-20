@@ -47,7 +47,7 @@
 		<meta property="authority" refines="#subject-5">LCSH</meta>
 		<meta property="term" refines="#subject-5">sh2008103388</meta>
 		<meta property="se:subject">Fiction</meta>
-		<meta id="collection-1" property="belongs-to-collection">Haycraft Queen Cornerstones</meta>
+		<meta id="collection-1" property="belongs-to-collection">Haycraft-Queen Cornerstones</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>
 		<dc:description id="description">An escaped convict steals two candlesticks and uses the proceeds to redeem himself and become an honest man.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
