@@ -8,7 +8,7 @@
 	</file>
 	<file path="chapter-3-8-20.xhtml">
 		<ignore>
-			<code>t-042</code>
+			<code>y-031</code>
 			<reason>Matched text is not a dialog tag.</reason>
 		</ignore>
 	</file>
