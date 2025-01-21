@@ -129,15 +129,14 @@ blockquote[xml|lang] [epub|type~="noteref"]{
 	vertical-align: top;
 }
 
-/* inline image */
 figure{
 	break-inside: avoid;
-	margin: 1em 40px;
-	text-align: center;
+	margin: 1em 2.5em;
 }
 
 figure img{
 	display: block;
 	margin: auto;
-	max-width: 20em;
+	max-height: 100vh;
+	max-width: 100%;
 }
