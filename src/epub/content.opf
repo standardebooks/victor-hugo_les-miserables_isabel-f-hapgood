@@ -92,7 +92,7 @@
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">Michael Atkinson</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Atkinson, Michael</meta>
-		<meta property="se:url.homepage" refines="#producer-1">https://github.org/michael-77</meta>
+		<meta property="se:url.homepage" refines="#producer-1">https://github.com/michael-77</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
