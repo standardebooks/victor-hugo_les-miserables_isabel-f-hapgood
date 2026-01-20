@@ -62,7 +62,7 @@
 		<dc:source>https://archive.org/details/in.ernet.dli.2015.149684</dc:source>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Les_Mis%C3%A9rables</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/victor-hugo_les-miserables_isabel-f-hapgood</meta>
-		<meta property="se:word-count">562298</meta>
+		<meta property="se:word-count">559207</meta>
 		<meta property="se:reading-ease.flesch">71.44</meta>
 		<dc:creator id="author">Victor Hugo</dc:creator>
 		<meta property="file-as" refines="#author">Hugo, Victor</meta>
