@@ -1,20 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <se-lint-ignore>
 	<file path="chapter-1-7-8.xhtml">
-		<ignore>
-			<code>t-017</code>
+		<ignore code="t-017">
 			<reason>Matched text is a complete clause.</reason>
 		</ignore>
 	</file>
 	<file path="chapter-3-8-20.xhtml">
-		<ignore>
-			<code>y-031</code>
+		<ignore code="y-031">
 			<reason>Matched text is not a dialog tag.</reason>
 		</ignore>
 	</file>
 	<file path="chapter-4-12-1.xhtml">
-		<ignore>
-			<code>t-019</code>
+		<ignore code="t-019">
 			<reason>Matched text is not a complete clause.</reason>
 		</ignore>
 	</file>
