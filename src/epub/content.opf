@@ -49,7 +49,7 @@
 		<meta property="schema:genre">Fiction</meta>
 		<meta id="collection-1" property="belongs-to-collection">Haycraft-Queen Cornerstones</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>
-		<dc:abstract>An escaped convict steals two candlesticks and uses the proceeds to redeem himself and become an honest man.</dc:abstract>
+		<meta property="schema:abstract">An escaped convict steals two candlesticks and uses the proceeds to redeem himself and become an honest man.</meta>
 		<dc:description>
 			&lt;p&gt;&lt;i&gt;Les Misérables&lt;/i&gt;, by &lt;a href="https://standardebooks.org/ebooks/victor-hugo"&gt;Victor Hugo&lt;/a&gt; has been described as one of literature’s greatest novels. The first two volumes were published in French in March 1862 and translated into English later the same year. Since then it has been translated by numerous others and has been adapted for film, television, radio, animation and the stage.&lt;/p&gt;
 			&lt;p&gt;This epic novel tells the story of Jean Valjean, an ex-convict who is attempting to escape from his past. Newly released from the galley-ships, Jean Valjean steals the silverware from the bishop who has taken him in for the night. When he is captured, the bishop urges him to use the silver to become an honest citizen. Valjean becomes a wealthy man, owner of a factory and mayor of his town but his past is only a footstep away in the form of Javert, Inspector of Police, who recognises Valjean from his time as a guard.&lt;/p&gt;
