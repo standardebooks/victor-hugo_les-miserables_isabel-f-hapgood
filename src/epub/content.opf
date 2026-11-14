@@ -81,8 +81,9 @@
 		<link href="https://id.loc.gov/authorities/names/n50019138.html" refines="#translator" rel="schema:sameAs"/>
 		<meta property="role" refines="#translator" scheme="marc:relators">ann</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
-		<dc:contributor id="artist">Jean-Louis Ernest Meissonier</dc:contributor>
-		<meta property="file-as" refines="#artist">Meissonier, Jean-Louis Ernest</meta>
+		<dc:contributor id="artist">Ernest Meissonier</dc:contributor>
+		<meta property="file-as" refines="#artist">Meissonier, Ernest</meta>
+		<meta property="schema:alternateName" refines="#artist">Jean-Louis-Ernest Meissonier</meta>
 		<link href="https://en.wikipedia.org/wiki/Ernest_Meissonier" refines="#artist" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n81033649.html" refines="#artist" rel="schema:sameAs"/>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
